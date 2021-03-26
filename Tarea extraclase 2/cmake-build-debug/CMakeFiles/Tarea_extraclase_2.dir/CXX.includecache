@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Lenovo/CLionProjects/Tarea extraclase 2/Cajero_automatico.cpp
+Cajero_automatico.h
+C:/Users/Lenovo/CLionProjects/Tarea extraclase 2/Cajero_automatico.h
+iostream
+-
+
+C:/Users/Lenovo/CLionProjects/Tarea extraclase 2/Cajero_automatico.h
+Facturacion.h
+C:/Users/Lenovo/CLionProjects/Tarea extraclase 2/Facturacion.h
+Transaccion.h
+C:/Users/Lenovo/CLionProjects/Tarea extraclase 2/Transaccion.h
+Verificacion.h
+C:/Users/Lenovo/CLionProjects/Tarea extraclase 2/Verificacion.h
+Usuario.h
+C:/Users/Lenovo/CLionProjects/Tarea extraclase 2/Usuario.h
+
+C:/Users/Lenovo/CLionProjects/Tarea extraclase 2/Facturacion.h
+
+C:/Users/Lenovo/CLionProjects/Tarea extraclase 2/Transaccion.h
+
+C:/Users/Lenovo/CLionProjects/Tarea extraclase 2/Usuario.h
+
+C:/Users/Lenovo/CLionProjects/Tarea extraclase 2/Verificacion.h
+Usuario.h
+C:/Users/Lenovo/CLionProjects/Tarea extraclase 2/Usuario.h
+
